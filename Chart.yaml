@@ -1,0 +1,4 @@
+apiVersion: v2
+name: nycu-network-security-argo-cve
+description: A ArgoCD application to demonstrate how to use helm to get file from container
+version: 0.2.0
